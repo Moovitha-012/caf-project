@@ -23,7 +23,7 @@ st.markdown("""
 <style>
     :root {
         --gh-bg: var(--background-color);
-        --gh-text: var(--text-color);
+        --gh-text: var(--text-color-red);
         --gh-sidebar-bg: var(--secondary-background-color);
         --gh-card-bg: var(--background-color);
         --gh-input-bg: var(--secondary-background-color);
