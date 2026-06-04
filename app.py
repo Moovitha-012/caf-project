@@ -32,7 +32,7 @@ st.markdown("""
         --gh-btn-primary-hover: #2c974b;
         --gh-btn-primary-text: #ffffff;
         --gh-btn-bg: var(--secondary-background-color);
-        --gh-btn-text: var(--text-color);
+        --gh-btn-text: var(--text-color-red);
         --gh-btn-border: rgba(128, 128, 128, 0.2);
     }
 
@@ -81,7 +81,7 @@ st.markdown("""
 
     .stButton button[kind="primary"] {
         background-color: var(--gh-btn-primary-bg) !important;
-        color: var(--gh-btn-primary-text) !important;
+        color: var(--gh-btn-primary-text-red) !important;
         border: 1px solid rgba(27,31,36,0.15) !important;
         font-weight: 600;
     }
